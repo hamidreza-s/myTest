@@ -1,1 +1,1 @@
-Here I just test the Github features.
+Here I just test the GitHub features.
